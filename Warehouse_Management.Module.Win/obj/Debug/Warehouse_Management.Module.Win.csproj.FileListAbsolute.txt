@@ -1,0 +1,1178 @@
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Objects.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Objects.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\NewMasterDatabase.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Docs.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DataGridViewAutoFilter.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\office.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Snap.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\stdole.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\NewMasterDatabase.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Docs.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Snap.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Objects.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\NewMasterDatabase.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Docs.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DataGridViewAutoFilter.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\office.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Snap.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\stdole.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\NewMasterDatabase.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Docs.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Snap.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.Win.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Objects.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.EF.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\NewMasterDatabase.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Images.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Docs.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Microsoft.Exchange.WebServices.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DataGridViewAutoFilter.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Newtonsoft.Json.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\office.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Snap.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\stdole.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.CodeParser.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Warehouse_Management.Module.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.ConditionalAppearance.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.EF.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Notifications.Win.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Office.Win.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Security.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Validation.Win.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.ExpressApp.Win.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.Base.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Persistent.BaseImpl.EF.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraSpreadsheet.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\NewMasterDatabase.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\EntityFramework.SqlServer.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Docs.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\Newtonsoft.Json.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Snap.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.DataAccess.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\DevExpress.Xpo.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Notifications.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Objects.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Office.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Security.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Validation.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.ExpressApp.Win.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Persistent.Base.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Spreadsheet.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraSpreadsheet.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csprojAssemblyReference.cache
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CoreCompileInputs.cache
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.csproj.CopyComplete
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Module.Win\obj\Debug\Warehouse_Management.Module.Win.pdb

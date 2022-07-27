@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C59BA1D-7F87-4C65-BF0B-3DE309322641}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Warehouse_Management.Module</RootNamespace>
+    <AssemblyName>Warehouse_Management.Module</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'EasyTest|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\EasyTest\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;EASYTEST</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataGridViewAutoFilter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\DataGridViewAutoFilter.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.Desktop.v21.1, Version=21.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\DevExpress.Data.Desktop.v21.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.DataVisualization.v21.1.Core, Version=21.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\DevExpress.DataVisualization.v21.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.EF.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Notifications.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Objects.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Office.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Security.EF.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Security.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Validation.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Office.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.Base.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.BaseImpl.EF.v20.1">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Spreadsheet.v20.1.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v21.1, Version=21.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\DevExpress.Utils.v21.1.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Abstractions.2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Features, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Features.2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="NewMasterDatabase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>API\NewMasterDatabase.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Name>System.Configuration</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.1\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.1\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.4.5.0\lib\netstandard2.0\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessObjects\AppConfig.cs" />
+    <Compile Include="BusinessObjects\DeliveryMaster.cs" />
+    <Compile Include="BusinessObjects\Employee.cs" />
+    <Compile Include="BusinessObjects\FormGoodsReceive.cs" />
+    <Compile Include="BusinessObjects\LineNo.cs" />
+    <Compile Include="BusinessObjects\ListBin.cs" />
+    <Compile Include="BusinessObjects\ListPartNumber.cs" />
+    <Compile Include="BusinessObjects\ListRack.cs" />
+    <Compile Include="BusinessObjects\ListSection.cs" />
+    <Compile Include="BusinessObjects\ListSupplier.cs" />
+    <Compile Include="BusinessObjects\ListWarehouse.cs" />
+    <Compile Include="BusinessObjects\ManagePo.cs" />
+    <Compile Include="BusinessObjects\ManageSo.cs" />
+    <Compile Include="BusinessObjects\Status.cs" />
+    <Compile Include="BusinessObjects\TonDauKy.cs" />
+    <Compile Include="Controllers\EmployeeController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\EmployeeController.Designer.cs">
+      <DependentUpon>EmployeeController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\ListBinController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ListBinController.Designer.cs">
+      <DependentUpon>ListBinController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\ListPartNumberController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ListPartNumberController.Designer.cs">
+      <DependentUpon>ListPartNumberController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\ListRackController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ListRackController.Designer.cs">
+      <DependentUpon>ListRackController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\ListSectionController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ListSectionController.Designer.cs">
+      <DependentUpon>ListSectionController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\ListWarehouseController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\ListWarehouseController.Designer.cs">
+      <DependentUpon>ListWarehouseController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\StatusController.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\StatusController.Designer.cs">
+      <DependentUpon>StatusController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseUpdate\Updater.cs" />
+    <Compile Include="Module.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Module.Designer.cs">
+      <DependentUpon>Module.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controllers\EmployeeController.resx">
+      <DependentUpon>EmployeeController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\ListBinController.resx">
+      <DependentUpon>ListBinController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\ListPartNumberController.resx">
+      <DependentUpon>ListPartNumberController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\ListRackController.resx">
+      <DependentUpon>ListRackController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\ListSectionController.resx">
+      <DependentUpon>ListSectionController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\ListWarehouseController.resx">
+      <DependentUpon>ListWarehouseController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controllers\StatusController.resx">
+      <DependentUpon>StatusController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model.DesignedDiffs.xafml" />
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BusinessObjects\ReadMe.txt" />
+    <None Include="Controllers\ReadMe.txt" />
+    <None Include="DatabaseUpdate\ReadMe.txt" />
+    <None Include="Images\ReadMe.txt" />
+    <None Include="packages.config" />
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FunctionalTests\config.xml" />
+    <None Include="FunctionalTests\sample.ets" />
+    <None Include="FunctionalTests\ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.configuration" />
+    <Compile Include="BusinessObjects\Warehouse_ManagementDbContext.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Welcome.html" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="API\DataGridViewAutoFilter.dll" />
+    <Content Include="API\DevComponents.DotNetBar.SuperGrid.dll" />
+    <Content Include="API\DevComponents.DotNetBar.SuperGrid.xml" />
+    <Content Include="API\DevComponents.DotNetBar2.dll" />
+    <Content Include="API\DevComponents.DotNetBar2.xml" />
+    <Content Include="API\DevComponents.Instrumentation.dll" />
+    <Content Include="API\DevComponents.Instrumentation.xml" />
+    <Content Include="API\DevExpress.Charts.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.CodeParser.v21.1.dll" />
+    <Content Include="API\DevExpress.Data.Desktop.v21.1.dll" />
+    <Content Include="API\DevExpress.Data.Desktop.v21.1.xml" />
+    <Content Include="API\DevExpress.Data.v21.1.dll" />
+    <Content Include="API\DevExpress.Data.v21.1.xml" />
+    <Content Include="API\DevExpress.DataAccess.v21.1.dll" />
+    <Content Include="API\DevExpress.DataAccess.v21.1.xml" />
+    <Content Include="API\DevExpress.DataVisualization.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Docs.v21.1.dll" />
+    <Content Include="API\DevExpress.Docs.v21.1.xml" />
+    <Content Include="API\DevExpress.Office.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Office.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Drawing.dll" />
+    <Content Include="API\DevExpress.Pdf.v21.1.Drawing.xml" />
+    <Content Include="API\DevExpress.Printing.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Printing.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.RichEdit.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.RichEdit.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Snap.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Snap.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Sparkline.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Sparkline.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Spreadsheet.v21.1.Core.dll" />
+    <Content Include="API\DevExpress.Spreadsheet.v21.1.Core.xml" />
+    <Content Include="API\DevExpress.Utils.v21.1.dll" />
+    <Content Include="API\DevExpress.Utils.v21.1.xml" />
+    <Content Include="API\DevExpress.Xpo.v21.1.dll" />
+    <Content Include="API\DevExpress.Xpo.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraBars.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraBars.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraCharts.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraCharts.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraEditors.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraEditors.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraGrid.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraGrid.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraLayout.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraLayout.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraNavBar.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraNavBar.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraPrinting.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraPrinting.v21.1.xml" />
+    <Content Include="API\DevExpress.XtraTreeList.v21.1.dll" />
+    <Content Include="API\DevExpress.XtraTreeList.v21.1.xml" />
+    <Content Include="API\Microsoft.Exchange.WebServices.dll" />
+    <Content Include="API\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="API\NewMasterDatabase.dll" />
+    <Content Include="API\NewMasterDatabase.pdb" />
+    <Content Include="API\Newtonsoft.Json.dll" />
+    <Content Include="API\Newtonsoft.Json.xml" />
+    <Content Include="API\Office.dll" />
+    <Content Include="API\stdole.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

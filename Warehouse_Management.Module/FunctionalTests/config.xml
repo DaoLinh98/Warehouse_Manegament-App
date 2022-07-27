@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" TestRunTimeLimit="3" EnableUpperCase="Warehouse_Management.Web">
+	<Applications>
+		<!-- Win -->
+		<Application
+			Name="Warehouse_ManagementWin"
+			FileName="[WinAppBin]\Warehouse_Management.Win.exe"
+			AdapterAssemblyName="[WinAdapterAssemblyName]"
+			CommunicationPort="4100"/>
+		<!-- Web -->
+		<Application
+			Name="Warehouse_ManagementWeb"
+			UseIISExpress="True"
+			Url="http://localhost:4030"
+			PhysicalPath="[WebAppBin]"
+			AdapterAssemblyName="[WebAdapterAssemblyName]"
+			IgnoreCase="true"/>
+		<!-- For IIS -->
+		<!--Application
+			Name="Warehouse_ManagementWeb"
+			Url="http://localhost/Warehouse_Management.Web/Default.aspx"
+			AdapterAssemblyName="[WebAdapterAssemblyName]"
+			IgnoreCase="true"/-->
+	</Applications>
+	<TestDatabases>
+		<Database xsi:type="TestMSSQLDatabase" Server="(localdb)\mssqllocaldb" DBName="Warehouse_ManagementEasyTest"/>
+	</TestDatabases>
+
+	<Aliases>
+		<Alias Name="DomainUserName" Value="%USERDOMAIN%\%USERNAME%" />
+		<Alias Name="WinAdapterAssemblyName" Value="DevExpress.ExpressApp.EasyTest.WinAdapter.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+		<Alias Name="WebAdapterAssemblyName" Value="DevExpress.ExpressApp.EasyTest.WebAdapter.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+		<Alias Name="WinAppBin" Value="[ConfigPath]\..\..\Warehouse_Management.Win\Bin\EasyTest" />
+		<Alias Name="WebAppBin" Value="[ConfigPath]\..\..\Warehouse_Management.Web" />
+	</Aliases>
+</Options>

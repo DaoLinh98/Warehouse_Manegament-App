@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="Employee_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="Employee">
+              <LayoutItem Id="Name" ViewItem="Name" Index="0" RelativeSize="6.557377049180328" Removed="True" />
+              <LayoutItem Id="Permission" ViewItem="Permission" Index="1" RelativeSize="4.7358834244080148" Removed="True" />
+              <LayoutItem Id="Active" ViewItem="Active" Index="2" RelativeSize="4.3715846994535523" Removed="True" />
+              <LayoutItem Id="Department" ViewItem="Department" Index="2" RelativeSize="4.7358834244080148" Removed="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>

@@ -1,0 +1,546 @@
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll.config
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Web.Resources.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\Warehouse_Management.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\bin\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll.config
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Web.Resources.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Warehouse_Management.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\NewMasterDatabase.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Microsoft.Office.Interop.Excel.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraGrid.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraEditors.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraBars.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Docs.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Microsoft.Exchange.WebServices.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DataGridViewAutoFilter.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Utils.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Newtonsoft.Json.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Office.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\office.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Data.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraLayout.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Printing.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraPrinting.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Sparkline.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.DataVisualization.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.RichEdit.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Snap.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.DataAccess.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\stdole.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraTreeList.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Charts.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Xpo.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.CodeParser.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\NewMasterDatabase.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraGrid.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraEditors.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraBars.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Docs.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Utils.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\Newtonsoft.Json.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Office.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Data.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraLayout.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Printing.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraPrinting.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Sparkline.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.RichEdit.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Snap.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.DataAccess.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.XtraTreeList.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - Copy\Warehouse_Management.Web\bin\DevExpress.Xpo.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll.config
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\NewMasterDatabase.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.SqlServer.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Images.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Web.Resources.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Charts.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Microsoft.Office.Interop.Excel.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGrid.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraEditors.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraBars.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Docs.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Microsoft.Exchange.WebServices.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DataGridViewAutoFilter.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Newtonsoft.Json.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Office.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.CodeParser.v20.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\office.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraLayout.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Printing.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraPrinting.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataVisualization.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.RichEdit.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Snap.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Drawing.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\stdole.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraTreeList.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Charts.v21.1.Core.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.CodeParser.v21.1.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\NewMasterDatabase.pdb
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.SqlServer.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGrid.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraEditors.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraBars.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Docs.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Newtonsoft.Json.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Office.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraLayout.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Printing.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraPrinting.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.RichEdit.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Snap.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Core.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Drawing.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraTreeList.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v21.1.xml
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csprojAssemblyReference.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CopyComplete
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.dll
+D:\WorkSpace\Project XAF (entityframeWork)\Warehouse_Management\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll.config
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Web.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Web.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\NewMasterDatabase.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.SqlServer.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Images.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Web.Resources.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Charts.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Microsoft.Office.Interop.Excel.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGrid.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraEditors.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraBars.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Docs.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Spreadsheet.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Microsoft.Exchange.WebServices.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DataGridViewAutoFilter.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Newtonsoft.Json.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Office.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.CodeParser.v20.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\office.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraLayout.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Printing.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraPrinting.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataVisualization.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.RichEdit.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Snap.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Drawing.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\stdole.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraTreeList.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Charts.v21.1.Core.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.CodeParser.v21.1.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.Web.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Warehouse_Management.Module.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\NewMasterDatabase.pdb
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\EntityFramework.SqlServer.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraReports.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraScheduler.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v20.1.Drawing.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Web.ASPxSpellChecker.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.SpellChecker.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGrid.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraEditors.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraBars.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Docs.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Spreadsheet.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Utils.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\Newtonsoft.Json.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Office.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v20.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.PivotGrid.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraGauges.v20.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraLayout.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Printing.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraPrinting.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Data.Desktop.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Sparkline.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.RichEdit.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Snap.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.DataAccess.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Core.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Pdf.v21.1.Drawing.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraCharts.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.XtraTreeList.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\DevExpress.Xpo.v21.1.xml
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Utils.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Web.Resources.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Web.Resources.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Web.Resources.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Web.Resources.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\bin\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csprojAssemblyReference.cache
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CoreCompileInputs.cache
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.csproj.CopyComplete
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.dll
+D:\DVP\Internship\Warehouse_Management - BanChinh\Warehouse_Management.Web\obj\Debug\Warehouse_Management.Web.pdb
